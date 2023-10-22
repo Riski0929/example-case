@@ -1,3 +1,0 @@
-language= "nodejs"
-run= "npm i && npm install -g pm2 && pm2 link 5ok06gc44llytpz a02zmbm06vtzhtk && pm2 start index.js && pm2 save && pm2 logs"
-
